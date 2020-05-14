@@ -1,0 +1,44 @@
+body {
+	background: #1f3134;
+	width: 1000px;
+	height: 1000px;
+
+
+}
+
+article {margin-left: 10px;
+         margin-right: 10px;
+        padding-left: 150px;
+        padding-right: 150px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+				color: silver;}
+
+
+article h2 {color: white;
+						border-bottom: solid 5px darkgray;}
+
+p {
+	font-size: 18px;
+	line-height: 1.5;}
+
+a {color: deepskyblue;}
+
+
+header h1 {width: 900px;
+           margin-left: auto;
+           margin-right: auto;
+					 border-bottom: solid 3px darkgray;}
+
+header a{color: silver;
+				text-decoration: none;}
+
+
+
+
+#title {
+	color: black;}
+
+.index {
+	color: white;}
+
